@@ -1,6 +1,9 @@
 import typing
 from collections import defaultdict
 from functools import partial
+from warnings import warn
+
+warn("We have moved from M$ GitHub to https://codeberg.org/KOLANICH-libs/StatsUtils.py , read why on https://codeberg.org/KOLANICH/Fuck-GuanTEEnomo .")
 
 import numpy as np
 import scipy.signal
